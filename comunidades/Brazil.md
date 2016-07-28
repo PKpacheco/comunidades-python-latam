@@ -16,7 +16,7 @@ Comunidade | Site
 Comunidade | Site 
  --- | --- 
 - Pyladies Vale | [http://vale.pyladies.com/](http://vale.pyladies.com/)
-
+- Django Girls São José dos Campos | [https://www.facebook.com/djangogirlssjc](https://www.facebook.com/djangogirlssjc)
 
 ## Norte
 
@@ -27,6 +27,8 @@ Comunidade | Site
 ## Sul
 
 ### Santa Catarina
+Comunidade | Site 
+ --- | --- 
 - Django Girls Florianópolis | [https://www.facebook.com/DGFloripa](https://www.facebook.com/DGFloripa)
 
 
