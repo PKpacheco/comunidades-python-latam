@@ -24,6 +24,8 @@ Comunidade | Site
 - PyLadies São Carlos | [https://www.facebook.com/PyLadiesSaoCarlos](https://www.facebook.com/PyLadiesSaoCarlos)
 - PyLadies Vale | [http://vale.pyladies.com/](http://vale.pyladies.com/)
 - Django Girls São José dos Campos | [https://www.facebook.com/djangogirlssjc](https://www.facebook.com/djangogirlssjc)
+- Pyladies Vale | [http://vale.pyladies.com/](http://vale.pyladies.com/)
+
 
 ## Norte
 
@@ -56,12 +58,14 @@ Comunidade | Site
 Comunidade | Site 
  --- | --- 
 - PyLadies Brasília | []()
+ --- | --- 
+ - Grupy-DF | [http://df.python.org.br](http://df.python.org.br)
 
 ## Sul
 
 ### Santa Catarina
-Comunidade | Site 
  --- | --- 
+- Python Floripa | [http://floripa.sc.python.org.br](http://floripa.sc.python.org.br)
 - Django Girls Florianópolis | [https://www.facebook.com/DGFloripa](https://www.facebook.com/DGFloripa)
 
 ### Paraná
