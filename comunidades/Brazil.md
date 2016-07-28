@@ -6,8 +6,9 @@ Comunidades no Brasil
 Comunidade | Site 
  --- | --- 
 - Pyladies Rio de Janeiro | [http://rio.pyladies.com/] (http://rio.pyladies.com/)
-- Django Girls Rio de Janeiro | [https://www.facebook.com/djangogirlsrio]
-- PythOnRio | [https://www.facebook.com/pythonrio]
+- Django Girls Rio de Janeiro | [https://www.facebook.com/djangogirlsrio](https://www.facebook.com/djangogirlsrio)
+- PythOnRio | [https://www.facebook.com/pythonrio](https://www.facebook.com/pythonrio)
+
 
 ### Minas Gerais
 
