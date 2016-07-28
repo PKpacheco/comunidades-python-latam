@@ -16,7 +16,7 @@ Comunidade | Site
 Comunidade | Site 
  --- | --- 
 - Pyladies Vale | [http://vale.pyladies.com/](http://vale.pyladies.com/)
-- Django Girls São José dos Campos | [https://www.facebook.com/djangogirlssjc](https://www.facebook.com/djangogirlssjc)
+
 
 ## Norte
 
@@ -24,11 +24,15 @@ Comunidade | Site
 
 ## Centro-Oeste
 
+### Distrito Federal
+ --- | --- 
+ - Grupy-DF | [http://df.python.org.br](http://df.python.org.br)
+
 ## Sul
 
 ### Santa Catarina
-Comunidade | Site 
  --- | --- 
+- Python Floripa | [http://floripa.sc.python.org.br](http://floripa.sc.python.org.br)
 - Django Girls Florianópolis | [https://www.facebook.com/DGFloripa](https://www.facebook.com/DGFloripa)
 
 
