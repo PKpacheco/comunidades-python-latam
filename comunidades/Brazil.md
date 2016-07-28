@@ -51,6 +51,11 @@ Comunidade | Site
 Comunidade | Site 
  --- | --- 
 - PyLadies Salvador | [https://www.facebook.com/PyLadiesSalvador](https://www.facebook.com/PyLadiesSalvador)
+ 
+### Sergipe
+Comunidade | Site 
+ --- | --- 
+- PUG-SE | [http://pug-se.github.io/](http://pug-se.github.io/)
 
 ## Centro-Oeste
 
