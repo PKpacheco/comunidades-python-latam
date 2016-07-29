@@ -38,7 +38,7 @@ Comunidade | Site
 - PyLadies Brasil | [http://brasil.pyladies.com/](http://brasil.pyladies.com/)
 - PyLadies Natal | [https://www.facebook.com/PyLadiesNatal/](https://www.facebook.com/PyLadiesNatal/)
 
-### Pernanbuco
+### Pernambuco
 Comunidade | Site 
  --- | --- 
 - PyLadies Recife | [https://www.facebook.com/pyladiesrecife/](https://www.facebook.com/pyladiesrecife/)
