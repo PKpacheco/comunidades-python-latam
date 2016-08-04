@@ -1,5 +1,10 @@
 Las comunidades en Peru
 
+###Cusco
+
+Comunidad | Sitio Web 
+ --- | --- 
+
 <!-- 
 ## Sudeste(ejemplo)
 
