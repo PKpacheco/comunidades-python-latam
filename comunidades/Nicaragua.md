@@ -1,4 +1,4 @@
-Las comunidades en Bolivia
+Las comunidades en Nicaragua
 
 <!-- 
 ## Sudeste(ejemplo)
