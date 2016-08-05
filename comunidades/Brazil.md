@@ -49,6 +49,7 @@ Comunidade | Site
 Comunidade | Site 
  --- | --- 
 - PyLadies Fortaleza | [https://www.facebook.com/PyLadiesFortaleza](https://www.facebook.com/PyLadiesFortaleza)
+- PUG-CE | [http://pugce.org/](http://pugce.org/)
 
 ### Bahia
 Comunidade | Site 
