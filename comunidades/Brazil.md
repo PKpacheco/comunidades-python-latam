@@ -45,7 +45,7 @@ Comunidade | Site
  --- | --- 
 - PyLadies Recife | [https://www.facebook.com/pyladiesrecife/](https://www.facebook.com/pyladiesrecife/)
 
-### Fortaleza
+### Ceará
 Comunidade | Site 
  --- | --- 
 - PyLadies Fortaleza | [https://www.facebook.com/PyLadiesFortaleza](https://www.facebook.com/PyLadiesFortaleza)
