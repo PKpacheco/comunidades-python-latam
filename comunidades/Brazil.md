@@ -34,7 +34,7 @@ Comunidade | Site
 
 ## Nordeste
 
-### Natal
+### Rio Grande do Norte
 Comunidade | Site 
  --- | --- 
 - PyLadies Brasil | [http://brasil.pyladies.com/](http://brasil.pyladies.com/)
@@ -45,10 +45,11 @@ Comunidade | Site
  --- | --- 
 - PyLadies Recife | [https://www.facebook.com/pyladiesrecife/](https://www.facebook.com/pyladiesrecife/)
 
-### Fortaleza
+### Ceará
 Comunidade | Site 
  --- | --- 
 - PyLadies Fortaleza | [https://www.facebook.com/PyLadiesFortaleza](https://www.facebook.com/PyLadiesFortaleza)
+- PUG-CE | [https://www.facebook.com/pugce/](https://www.facebook.com/pugce/)
 
 ### Bahia
 Comunidade | Site 
