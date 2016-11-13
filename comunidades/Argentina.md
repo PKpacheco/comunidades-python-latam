@@ -7,27 +7,17 @@ Comunidad | Sitio Web
 - PyAr | [http://www.python.org.ar/](http://www.python.org.ar/)
 
 
-###Mendoza
-
-Comunidad | Sitio Web 
- --- | --- 
-
-
 ###Buenos Aires
 
 Comunidad | Sitio Web 
  --- | --- 
 
 
-
-<!-- 
-## Sudeste(ejemplo)
-
-###Rio de Janeiro(ejemplo)
+###Mendoza
 
 Comunidad | Sitio Web 
  --- | --- 
-- PyLadies Rio de Janeiro | [http://rio.pyladies.com/](http://rio.pyladies.com/) 
+ - Django Girls Mendoza | [https://www.facebook.com/djangogirlsmdz/](https://www.facebook.com/djangogirlsmdz/)
+ - Pyladies Mendoza | [https://pkpacheco.github.io/pyladies-mendoza/](https://pkpacheco.github.io/pyladies-mendoza/)
 
--->
 
