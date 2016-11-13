@@ -24,8 +24,8 @@ Comunidad | Sitio Web
 
 ###Bogotá
 
- --- | --- 
 Comunidad | Sitio Web 
+ --- | --- 
 - Bogotá Python | [http://www.meetup.com/es/pythoncolombia-bogota/](http://www.meetup.com/es/pythoncolombia-bogota/)
 - Django Bogotá | [http://www.meetup.com/es/Django-Bogota/](http://www.meetup.com/es/Django-Bogota/)
 
