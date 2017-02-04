@@ -1,12 +1,13 @@
 Las comunidades en Venezuela
 
-<!-- 
-## Sudeste(ejemplo)
-
-###Rio de Janeiro(ejemplo)
+### Venezuela
 
 Comunidad | Sitio Web 
  --- | --- 
-- PyLadies Rio de Janeiro | [http://rio.pyladies.com/](http://rio.pyladies.com/) 
+- PyVE | [http://www.python.info.ve/](http://www.python.info.ve/)
+- Lista de Discusión | [https://groups.google.com/forum/#!forum/python-venezuela](https://groups.google.com/forum/#!forum/python-venezuela)
 
--->
+Comunidad | Sitio Web 
+ --- | --- 
+ - DataScienceVE | [https://t.me/DataScienceVE](https://t.me/DataScienceVE)
+ 
