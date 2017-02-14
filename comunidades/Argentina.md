@@ -21,3 +21,8 @@ Comunidad | Sitio Web
  - Pyladies Mendoza | [https://pkpacheco.github.io/pyladies-mendoza/](https://pkpacheco.github.io/pyladies-mendoza/)
 
 
+###Patagonia
+
+Comunidad | Sitio Web
+--- | ---
+  - Meetup Patagónico de Python | [https://www.meetup.com/es-ES/Patagonia-Python-Meetup](https://www.meetup.com/es-ES/Patagonia-Python-Meetup)
