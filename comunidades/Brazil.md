@@ -15,6 +15,8 @@ Comunidade | Site
 Comunidade | Site
  --- | ---
 - PyLadies Belo Horizonte | [https://www.facebook.com/pyladiesbh](https://www.facebook.com/pyladiesbh)
+- Pug-MG | [https://groups.google.com/forum/#!forum/python-mg](https://groups.google.com/forum/#!forum/python-mg)
+
 
 ### São Paulo
 Comunidade | Site
@@ -25,7 +27,7 @@ Comunidade | Site
 - PyLadies Vale | [http://vale.pyladies.com/](http://vale.pyladies.com/)
 - Django Girls São José dos Campos | [https://www.facebook.com/djangogirlssjc](https://www.facebook.com/djangogirlssjc)
 - Pyladies Vale | [http://vale.pyladies.com/](http://vale.pyladies.com/)
-- Python Vale | [http://pythonvale.com.br](http://pythonvale.com.br/)
+- Python Vale | [http://pythonvale.com.br](http://pythonvale.com.br/    )
 - grupy-rp | [http://grupyrp.github.io/](http://grupyrp.github.io/)
 - grupy-sanca | [https://www.facebook.com/grupysanca/](https://www.facebook.com/grupysanca/)
 - grupy-sp | [http://www.meetup.com/grupy-sp](http://www.meetup.com/grupy-sp)
