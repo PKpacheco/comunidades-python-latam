@@ -1,8 +1,14 @@
 Comunidades no Brasil
 
+## Brasil
+Comunidade | Site
+ --- | ---
+PyLadies Brasil | [http://brasil.pyladies.com/](http://brasil.pyladies.com/)
+Python Brasil | [https://www.facebook.com/pythonbrasil/](https://www.facebook.com/pythonbrasil/)
+
 ## Sudeste
 
-###Rio de Janeiro
+### Rio de Janeiro
 Comunidade | Site
  --- | ---
 PyLadies Rio de Janeiro | [http://rio.pyladies.com/](http://rio.pyladies.com/)
@@ -15,6 +21,8 @@ PythOnRio | [https://www.facebook.com/pythonrio](https://www.facebook.com/python
 Comunidade | Site
  --- | ---
 PyLadies Belo Horizonte | [https://www.facebook.com/pyladiesbh](https://www.facebook.com/pyladiesbh)
+Belo Horizonte Python User Group | [https://www.meetup.com/Belo-Horizonte-Python-User-Group/](https://www.meetup.com/Belo-Horizonte-Python-User-Group/)
+PyData Belo Horizonte | [https://www.meetup.com/PyData-Belo-Horizonte/](https://www.meetup.com/PyData-Belo-Horizonte/)
 
 ### São Paulo
 Comunidade | Site
@@ -29,6 +37,7 @@ grupy-rp | [http://grupyrp.github.io/](http://grupyrp.github.io/)
 grupy-sanca | [https://www.facebook.com/grupysanca/](https://www.facebook.com/grupysanca/)
 grupy-sp | [http://www.meetup.com/grupy-sp](http://www.meetup.com/grupy-sp)
 
+
 ## Norte
 
 ## Nordeste
@@ -36,7 +45,6 @@ grupy-sp | [http://www.meetup.com/grupy-sp](http://www.meetup.com/grupy-sp)
 ### Rio Grande do Norte
 Comunidade | Site
  --- | ---
-PyLadies Brasil | [http://brasil.pyladies.com/](http://brasil.pyladies.com/)
 PyLadies Natal | [https://www.facebook.com/PyLadiesNatal/](https://www.facebook.com/PyLadiesNatal/)
 
 ### Pernambuco
