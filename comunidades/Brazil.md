@@ -40,6 +40,13 @@ grupy-sp | [http://www.meetup.com/grupy-sp](http://www.meetup.com/grupy-sp)
 
 ## Norte
 
+### Belém
+Comunidade | Site 
+ --- | --- 
+- PyLadies Belém | [https://www.facebook.com/pyladiesbelem/](https://www.facebook.com/pyladiesbelem/)
+- Django Girls Belém | [https://www.facebook.com/DjangoGirlsBelem/](https://www.facebook.com/DjangoGirlsBelem/)
+- PyD'Égua | [http://pydegua.python.org.br/](http://pydegua.python.org.br/)
+
 ## Nordeste
 
 ### Rio Grande do Norte
