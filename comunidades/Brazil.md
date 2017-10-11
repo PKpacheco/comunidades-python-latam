@@ -15,6 +15,7 @@ Comunidade | Site
 Comunidade | Site 
  --- | --- 
 - PyLadies Belo Horizonte | [https://www.facebook.com/pyladiesbh](https://www.facebook.com/pyladiesbh)
+- Belo Horizonte Python User Group | [https://www.meetup.com/pt-BR/Belo-Horizonte-Python-User-Group/](https://www.meetup.com/pt-BR/Belo-Horizonte-Python-User-Group/)
 
 ### São Paulo
 Comunidade | Site 
