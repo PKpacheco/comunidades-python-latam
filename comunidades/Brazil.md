@@ -64,6 +64,7 @@ PUG-CE | [http://pugce.org/](http://pugce.org/)
 ### Pernambuco
 Comunidade | Site
  --- | ---
+PUG-PE | [http://www.pug.pe/L/](http://www.pug.pe/L/)
 PyLadies Recife | [https://www.facebook.com/pyladiesrecife/](https://www.facebook.com/pyladiesrecife/)
 
 ### Piauí
