@@ -58,6 +58,7 @@ PyLadies Natal | [https://www.facebook.com/PyLadiesNatal/](https://www.facebook.
 ### Pernambuco
 Comunidade | Site
  --- | ---
+PUG-PE | [http://www.pug.pe/L/](http://www.pug.pe/L/)
 PyLadies Recife | [https://www.facebook.com/pyladiesrecife/](https://www.facebook.com/pyladiesrecife/)
 
 ### Ceará
