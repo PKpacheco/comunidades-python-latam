@@ -1,6 +1,7 @@
 # comunidades-python-latam
+-------------------------------------------------------
 Repositório das Comunidades de Python na América Latina
-==============================================
+=======================================================
 Esse repositório destina-se a listar todas as comunidades de Python da América Latina, separados por países e estados.
 
 PS.: Caso você queira contribuir com alguma comunidade que não encontra-se na lista ou alterar alguma, por favor envie a correção.
@@ -19,8 +20,8 @@ Please include the communities put in alphabetical order of states and possible 
 -------------------------------------------------------
 Repositorio de Comunidades de Python en América Latina
 =======================================================
-El repositorio es enumerar todas las comunidades de América Latina Python, separadas por países y estados.
+El repositorio tiene la intencion de enumerar todas las comunidades Python en América Latina, separadas por países y estados.
 
-PD.: Si quieres contribuir a una comunidad que no está en la lista o cambiar cualquiera, por favor enviar el parche.
+PD.: Si quieres contribuir con alguna comunidad que no está en la lista o cambiar cualquiera, por favor enviar un parche.
 
-Por favor, incluya las comunidades puestas en orden alfabético de los estados y posibles vínculos con el sitio, facebook, gorjeo comunidad. (En el caso de Django niñas, si es posible, no ponga el sitio, ya que se inactiva después del evento, coloque el Facebook o Twitter)
+Por favor, al incluir las comunidades, ordene alfabeticamente los estados y de ser posible los enlaces del sitio web, facebook, y/o twitter de la comunidad. (En el caso de Django Girls, de ser posible, no coloque el enlace al sitio, ya que se inactiva después del evento, coloque el Facebook o Twitter)
