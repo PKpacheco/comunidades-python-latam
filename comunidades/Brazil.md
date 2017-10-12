@@ -50,15 +50,10 @@ PyD'Égua | [http://pydegua.python.org.br/](http://pydegua.python.org.br/)
 
 ## Nordeste
 
-### Rio Grande do Norte
+### Bahia
 Comunidade | Site
  --- | ---
-PyLadies Natal | [https://www.facebook.com/PyLadiesNatal/](https://www.facebook.com/PyLadiesNatal/)
-
-### Pernambuco
-Comunidade | Site
- --- | ---
-PyLadies Recife | [https://www.facebook.com/pyladiesrecife/](https://www.facebook.com/pyladiesrecife/)
+PyLadies Salvador | [https://www.facebook.com/PyLadiesSalvador](https://www.facebook.com/PyLadiesSalvador)
 
 ### Ceará
 Comunidade | Site
@@ -66,10 +61,23 @@ Comunidade | Site
 PyLadies Fortaleza | [https://www.facebook.com/PyLadiesFortaleza](https://www.facebook.com/PyLadiesFortaleza)
 PUG-CE | [http://pugce.org/](http://pugce.org/)
 
-### Bahia
+### Pernambuco
 Comunidade | Site
  --- | ---
-PyLadies Salvador | [https://www.facebook.com/PyLadiesSalvador](https://www.facebook.com/PyLadiesSalvador)
+PyLadies Recife | [https://www.facebook.com/pyladiesrecife/](https://www.facebook.com/pyladiesrecife/)
+
+### Piauí
+Comunidade | Site
+ --- | ---
+PUG-PI | [https://www.facebook.com/pugpiaui/](https://www.facebook.com/pugpiaui/)
+Pyladies Teresina (Fanpage) | [https://www.facebook.com/PyLadiesTeresina/](https://www.facebook.com/PyLadiesTeresina/)
+Pyladies Teresina (Twitter) | [https://twitter.com/pyladiesthe](https://twitter.com/pyladiesthe)
+Django Girls Teresina | [https://www.facebook.com/djangogirlsteresina/](https://www.facebook.com/djangogirlsteresina/)
+
+### Rio Grande do Norte
+Comunidade | Site
+ --- | ---
+PyLadies Natal | [https://www.facebook.com/PyLadiesNatal/](https://www.facebook.com/PyLadiesNatal/)
 
 ### Sergipe
 Comunidade | Site
