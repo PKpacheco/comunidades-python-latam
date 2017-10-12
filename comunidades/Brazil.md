@@ -95,6 +95,7 @@ Django Girls Florianópolis | [https://www.facebook.com/DGFloripa](https://www.f
 ### Paraná
 Comunidade | Site
  --- | ---
+GruPy-PR | [https://grupypr.github.io/](https://grupypr.github.io/)
 PyLadies Curitiba | [http://www.meetup.com/pt-BR/PyLadies-Curitiba/](http://www.meetup.com/pt-BR/PyLadies-Curitiba/)
 
 ### Rio Grande do Sul
