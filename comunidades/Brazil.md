@@ -66,8 +66,9 @@ Comunidade | Site
  --- | ---
 PyLadies Recife | [https://www.facebook.com/pyladiesrecife/](https://www.facebook.com/pyladiesrecife/)
 
-## Piauí
+### Piauí
 Comunidade | Site
+ --- | ---
 PUG-PI (Fanpage) | [https://www.facebook.com/pugpiaui/](https://www.facebook.com/pugpiaui/)
 PUG-PI Grupo (Grupo) | [https://www.facebook.com/groups/pugpi/](https://www.facebook.com/groups/pugpi/)
 Pyladies Teresina (Fanpage) | [https://www.facebook.com/PyLadiesTeresina/](https://www.facebook.com/PyLadiesTeresina/)
