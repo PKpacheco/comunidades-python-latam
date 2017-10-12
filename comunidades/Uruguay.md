@@ -1,5 +1,16 @@
 Las comunidades en Uruguay
 
+Comunidad | Sitio Web  
+--- | ---
+Python UY | [https://python.uy/](https://python.uy/)
+
+
+## Montevideo
+
+Comundad | Sitio Web  
+--- | ---
+Py-MVD | [https://www.meetup.com/py-mvd/](https://www.meetup.com/py-mvd/)
+
 <!--
 ## Sudeste(ejemplo)
 
