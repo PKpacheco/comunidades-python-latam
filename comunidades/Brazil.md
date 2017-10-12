@@ -69,11 +69,10 @@ PyLadies Recife | [https://www.facebook.com/pyladiesrecife/](https://www.faceboo
 ### Piauí
 Comunidade | Site
  --- | ---
-PUG-PI (Fanpage) | [https://www.facebook.com/pugpiaui/](https://www.facebook.com/pugpiaui/)
-PUG-PI Grupo (Grupo) | [https://www.facebook.com/groups/pugpi/](https://www.facebook.com/groups/pugpi/)
+PUG-PI | [https://www.facebook.com/pugpiaui/](https://www.facebook.com/pugpiaui/)
 Pyladies Teresina (Fanpage) | [https://www.facebook.com/PyLadiesTeresina/](https://www.facebook.com/PyLadiesTeresina/)
 Pyladies Teresina (Twitter) | [https://twitter.com/pyladiesthe](https://twitter.com/pyladiesthe)
-Django Girls Teresina ( Fanpage) | [https://www.facebook.com/djangogirlsteresina/](https://www.facebook.com/djangogirlsteresina/)
+Django Girls Teresina | [https://www.facebook.com/djangogirlsteresina/](https://www.facebook.com/djangogirlsteresina/)
 
 ### Rio Grande do Norte
 Comunidade | Site
