@@ -36,6 +36,7 @@ Pyladies Vale | [http://vale.pyladies.com/](http://vale.pyladies.com/)
 grupy-rp | [http://grupyrp.github.io/](http://grupyrp.github.io/)
 grupy-sanca | [https://www.facebook.com/grupysanca/](https://www.facebook.com/grupysanca/)
 grupy-sp | [http://www.meetup.com/grupy-sp](http://www.meetup.com/grupy-sp)
+Python Guarulhos | [https://www.meetup.com/pythonguarulhos/](https://www.meetup.com/pythonguarulhos/)
 
 
 ## Norte
