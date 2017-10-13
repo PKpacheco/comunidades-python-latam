@@ -100,6 +100,8 @@ Comunidade | Site
  --- | ---
 Python Floripa | [http://floripa.sc.python.org.br](http://floripa.sc.python.org.br)
 Django Girls Florianópolis | [https://www.facebook.com/DGFloripa](https://www.facebook.com/DGFloripa)
+PyLadies Floripa | [https://www.facebook.com/pyladiesfloripa/](https://www.facebook.com/pyladiesfloripa/)
+PyLadies Blumenau | [https://www.facebook.com/PyLadies-Blumenau-1928509964035574/](https://www.facebook.com/PyLadies-Blumenau-1928509964035574/)
 
 ### Paraná
 Comunidade | Site
