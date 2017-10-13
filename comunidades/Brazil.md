@@ -47,6 +47,11 @@ PyLadies Belém | [https://www.facebook.com/pyladiesbelem/](https://www.facebook
 Django Girls Belém | [https://www.facebook.com/DjangoGirlsBelem/](https://www.facebook.com/DjangoGirlsBelem/)
 PyD'Égua | [http://pydegua.python.org.br/](http://pydegua.python.org.br/)
 
+### Rondônia
+Comunidade | Site 
+--- | --- 
+PyRO | [https://www.facebook.com/pythonRO/](https://www.facebook.com/pythonRO/)
+
 ## Nordeste
 
 ### Bahia
