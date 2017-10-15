@@ -29,6 +29,7 @@ Comunidade | Site
  --- | ---
 PyLadies São Paulo | [http://www.meetup.com/pt-BR/PyLadiesSP/](http://www.meetup.com/pt-BR/PyLadiesSP/)
 PyLadies Campinas | [https://www.facebook.com/pyladiescps](https://www.facebook.com/pyladiescps)
+PyLadies RP | [https://www.facebook.com/pyladiesrp](https://www.facebook.com/pyladiesrp)
 PyLadies São Carlos | [https://www.facebook.com/PyLadiesSaoCarlos](https://www.facebook.com/PyLadiesSaoCarlos)
 PyLadies Vale | [http://vale.pyladies.com/](http://vale.pyladies.com/)
 Django Girls São José dos Campos | [https://www.facebook.com/djangogirlssjc](https://www.facebook.com/djangogirlssjc)
@@ -41,8 +42,8 @@ Python Guarulhos | [https://www.meetup.com/pythonguarulhos/](https://www.meetup.
 ## Norte
 
 ### Belém
-Comunidade | Site 
- --- | --- 
+Comunidade | Site
+ --- | ---
 PyLadies Belém | [https://www.facebook.com/pyladiesbelem/](https://www.facebook.com/pyladiesbelem/)
 Django Girls Belém | [https://www.facebook.com/DjangoGirlsBelem/](https://www.facebook.com/DjangoGirlsBelem/)
 PyD'Égua | [http://pydegua.python.org.br/](http://pydegua.python.org.br/)
