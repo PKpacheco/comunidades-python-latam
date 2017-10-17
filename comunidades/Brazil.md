@@ -84,6 +84,8 @@ Django Girls Teresina | [https://www.facebook.com/djangogirlsteresina/](https://
 Comunidade | Site
  --- | ---
 PyLadies Natal | [https://www.facebook.com/PyLadiesNatal/](https://www.facebook.com/PyLadiesNatal/)
+Django Girls Natal | [https://www.facebook.com/djangogirlsnatal/](https://www.facebook.com/djangogirlsnatal/)
+
 
 ### Sergipe
 Comunidade | Site
