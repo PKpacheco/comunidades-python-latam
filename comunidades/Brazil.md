@@ -37,6 +37,11 @@ Comunidade | Site
 
 ## Nordeste
 
+### Alagoas
+Comunidade | Site
+ --- | ---
+- GruPy-Al | [https://groups.google.com/forum/#!forum/grupy-al](https://groups.google.com/forum/#!forum/grupy-al)
+
 ### Natal
 Comunidade | Site
  --- | ---
