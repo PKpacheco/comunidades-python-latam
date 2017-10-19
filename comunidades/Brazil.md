@@ -53,6 +53,11 @@ Comunidade | Site
 - PyLadies Brasil | [http://brasil.pyladies.com/](http://brasil.pyladies.com/)
 - PyLadies Natal | [https://www.facebook.com/PyLadiesNatal/](https://www.facebook.com/PyLadiesNatal/)
 
+### Paraíba
+Comunidade | Site
+ --- | ---
+- GruPy-PB | [https://groups.google.com/forum/#!forum/grupy-pb](https://groups.google.com/forum/#!forum/grupy-pb)
+
 ### Pernambuco
 Comunidade | Site
  --- | ---
