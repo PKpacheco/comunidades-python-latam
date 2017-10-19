@@ -63,6 +63,11 @@ Comunidade | Site
  --- | ---
 - PyLadies Recife | [https://www.facebook.com/pyladiesrecife/](https://www.facebook.com/pyladiesrecife/)
 
+### Piauí
+Comunidade | Site
+ --- | ---
+- Pug-PI | [https://www.facebook.com/groups/pugpi/](https://www.facebook.com/groups/pugpi/)
+
 ### Ceará
 Comunidade | Site
  --- | ---
