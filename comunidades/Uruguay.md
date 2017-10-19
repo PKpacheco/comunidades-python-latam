@@ -1,17 +1,23 @@
 Las comunidades en Uruguay
 
-###Montevideo
+Comunidad | Sitio Web  
+--- | ---
+Python UY | [https://python.uy/](https://python.uy/)
 
-Comunidad | Sitio Web 
- --- | --- 
 
-<!-- 
+## Montevideo
+
+Comundad | Sitio Web  
+--- | ---
+Py-MVD | [https://www.meetup.com/py-mvd/](https://www.meetup.com/py-mvd/)
+
+<!--
 ## Sudeste(ejemplo)
 
 ###Rio de Janeiro(ejemplo)
 
-Comunidad | Sitio Web 
- --- | --- 
-- PyLadies Rio de Janeiro | [http://rio.pyladies.com/](http://rio.pyladies.com/) 
+Comunidad | Sitio Web
+ --- | ---
+PyLadies Rio de Janeiro | [http://rio.pyladies.com/](http://rio.pyladies.com/) 
 
 -->
