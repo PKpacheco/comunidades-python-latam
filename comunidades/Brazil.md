@@ -62,6 +62,7 @@ Comunidade | Site
 ### Bahia
 Comunidade | Site
  --- | ---
+- GruPy-BA | [https://groups.google.com/forum/#!forum/grupy-ba](https://groups.google.com/forum/#!forum/grupy-ba) | [http://www.meetup.com/pt/Salvador-Python-Meetup/](http://www.meetup.com/pt/Salvador-Python-Meetup/)
 - PyLadies Salvador | [https://www.facebook.com/PyLadiesSalvador](https://www.facebook.com/PyLadiesSalvador)
 
 ### Sergipe
