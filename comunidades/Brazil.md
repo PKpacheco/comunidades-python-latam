@@ -43,32 +43,11 @@ Comunidade | Site
  --- | ---
 - GruPy-Al | [https://groups.google.com/forum/#!forum/grupy-al](https://groups.google.com/forum/#!forum/grupy-al)
 
-### Maranhão
-Comunidade | Site
- --- | ---
-- Pug-MA | [https://groups.google.com/forum/#!forum/pug-ma](https://groups.google.com/forum/#!forum/pug-ma)
-
-### Natal
-Comunidade | Site
- --- | ---
-- PyLadies Brasil | [http://brasil.pyladies.com/](http://brasil.pyladies.com/)
-- PyLadies Natal | [https://www.facebook.com/PyLadiesNatal/](https://www.facebook.com/PyLadiesNatal/)
-
-### Paraíba
-Comunidade | Site
- --- | ---
-- GruPy-PB | [https://groups.google.com/forum/#!forum/grupy-pb](https://groups.google.com/forum/#!forum/grupy-pb)
-
-### Pernambuco
+### Bahia
 Comunidade | Site | --
- --- | --- |
-- PyLadies Recife | [https://www.facebook.com/pyladiesrecife/](https://www.facebook.com/pyladiesrecife/) |
-- Pug-PE | [https://groups.google.com/forum/#!forum/pug-pe](https://groups.google.com/forum/#!forum/pug-pe) | [http://pycon.pug.pe/XLI/](http://pycon.pug.pe/XLI/)
-
-### Piauí
-Comunidade | Site
  --- | ---
-- Pug-PI | [https://www.facebook.com/groups/pugpi/](https://www.facebook.com/groups/pugpi/)
+- GruPy-BA | [https://groups.google.com/forum/#!forum/grupy-ba](https://groups.google.com/forum/#!forum/grupy-ba) | [http://www.meetup.com/pt/Salvador-Python-Meetup/](http://www.meetup.com/pt/Salvador-Python-Meetup/)
+- PyLadies Salvador | [https://www.facebook.com/PyLadiesSalvador](https://www.facebook.com/PyLadiesSalvador) |
 
 ### Ceará
 Comunidade | Site
@@ -76,11 +55,33 @@ Comunidade | Site
 - PyLadies Fortaleza | [https://www.facebook.com/PyLadiesFortaleza](https://www.facebook.com/PyLadiesFortaleza)
 - PUG-CE | [http://pugce.org/](http://pugce.org/)
 
-### Bahia
-Comunidade | Site | --
+
+### Maranhão
+Comunidade | Site
  --- | ---
-- GruPy-BA | [https://groups.google.com/forum/#!forum/grupy-ba](https://groups.google.com/forum/#!forum/grupy-ba) | [http://www.meetup.com/pt/Salvador-Python-Meetup/](http://www.meetup.com/pt/Salvador-Python-Meetup/)
-- PyLadies Salvador | [https://www.facebook.com/PyLadiesSalvador](https://www.facebook.com/PyLadiesSalvador) |
+- Pug-MA | [https://groups.google.com/forum/#!forum/pug-ma](https://groups.google.com/forum/#!forum/pug-ma)
+
+### Paraíba
+Comunidade | Site
+ --- | ---
+- GruPy-PB | [https://groups.google.com/forum/#!forum/grupy-pb](https://groups.google.com/forum/#!forum/grupy-pb)
+
+### Piauí
+Comunidade | Site
+ --- | ---
+- Pug-PI | [https://www.facebook.com/groups/pugpi/](https://www.facebook.com/groups/pugpi/)
+
+### Pernambuco
+Comunidade | Site | --
+ --- | --- |
+- PyLadies Recife | [https://www.facebook.com/pyladiesrecife/](https://www.facebook.com/pyladiesrecife/) |
+- Pug-PE | [https://groups.google.com/forum/#!forum/pug-pe](https://groups.google.com/forum/#!forum/pug-pe) | [http://pycon.pug.pe/XLI/](http://pycon.pug.pe/XLI/)
+
+### Rio Grande do Norte
+Comunidade | Site
+ --- | ---
+- GruPy-RN | [https://groups.google.com/forum/#!forum/grupy-rn](https://groups.google.com/forum/#!forum/grupy-rn)
+- PyLadies Natal | [https://www.facebook.com/PyLadiesNatal/](https://www.facebook.com/PyLadiesNatal/)
 
 ### Sergipe
 Comunidade | Site
