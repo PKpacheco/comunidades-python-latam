@@ -2,7 +2,8 @@ Comunidades no Brasil
 
 ## Sudeste
 
-###Rio de Janeiro
+### Rio de Janeiro
+
 Comunidade | Site
  --- | ---
 - PyLadies Rio de Janeiro | [http://rio.pyladies.com/](http://rio.pyladies.com/)
@@ -59,9 +60,10 @@ Comunidade | Site
 - GruPy-PB | [https://groups.google.com/forum/#!forum/grupy-pb](https://groups.google.com/forum/#!forum/grupy-pb)
 
 ### Pernambuco
-Comunidade | Site
- --- | ---
-- PyLadies Recife | [https://www.facebook.com/pyladiesrecife/](https://www.facebook.com/pyladiesrecife/)
+Comunidade | Site | --
+ --- | --- |
+- PyLadies Recife | [https://www.facebook.com/pyladiesrecife/](https://www.facebook.com/pyladiesrecife/) |
+- Pug-PE | [https://groups.google.com/forum/#!forum/pug-pe](https://groups.google.com/forum/#!forum/pug-pe) | [http://pycon.pug.pe/XLI/](http://pycon.pug.pe/XLI/)
 
 ### Piauí
 Comunidade | Site
@@ -75,10 +77,10 @@ Comunidade | Site
 - PUG-CE | [http://pugce.org/](http://pugce.org/)
 
 ### Bahia
-Comunidade | Site
+Comunidade | Site | --
  --- | ---
 - GruPy-BA | [https://groups.google.com/forum/#!forum/grupy-ba](https://groups.google.com/forum/#!forum/grupy-ba) | [http://www.meetup.com/pt/Salvador-Python-Meetup/](http://www.meetup.com/pt/Salvador-Python-Meetup/)
-- PyLadies Salvador | [https://www.facebook.com/PyLadiesSalvador](https://www.facebook.com/PyLadiesSalvador)
+- PyLadies Salvador | [https://www.facebook.com/PyLadiesSalvador](https://www.facebook.com/PyLadiesSalvador) |
 
 ### Sergipe
 Comunidade | Site
