@@ -43,6 +43,18 @@ Comunidade | Site
 
 ## Norte
 
+### Amazonas
+Comunidade | Site
+ --- | ---
+- GruPy-Am | [https://groups.google.com/forum/#!forum/grupy-am](https://groups.google.com/forum/#!forum/grupy-am)
+
+
+### Rondônia
+Comunidade | Site
+ --- | ---
+- GruPy-Ro | [https://groups.google.com/forum/#!forum/grupy-ro](https://groups.google.com/forum/#!forum/grupy-ro)
+
+
 ## Nordeste
 
 ### Alagoas
