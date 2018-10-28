@@ -63,6 +63,7 @@ Python Guarulhos | [https://www.meetup.com/pythonguarulhos/](https://www.meetup.
 Comunidade | Site
  --- | ---
 - GruPy-Am | [https://groups.google.com/forum/#!forum/grupy-am](https://groups.google.com/forum/#!forum/grupy-am)
+- PyData Manaus | [https://t.me/pydatamanaus](https://t.me/pydatamanaus) | [https://www.facebook.com/pydatamanaus](https://www.facebook.com/pydatamanaus) | [https://github.com/pydata-manaus/pydata-manaus](https://github.com/pydata-manaus/pydata-manaus)
 
 
 ### Rondônia
