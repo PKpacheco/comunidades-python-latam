@@ -63,8 +63,8 @@ SciPy - Sampa | [https://www.facebook.com/SciPySP/](https://www.facebook.com/Sci
 ### Amazonas
 Comunidade | Site
  --- | ---
-- GruPy-Am | [https://groups.google.com/forum/#!forum/grupy-am](https://groups.google.com/forum/#!forum/grupy-am)
-- PyData Manaus | [https://t.me/pydatamanaus](https://t.me/pydatamanaus) | [https://www.facebook.com/pydatamanaus](https://www.facebook.com/pydatamanaus) | [https://github.com/pydata-manaus/pydata-manaus](https://github.com/pydata-manaus/pydata-manaus)
+GruPy-Am | [https://groups.google.com/forum/#!forum/grupy-am](https://groups.google.com/forum/#!forum/grupy-am)
+PyData Manaus | [https://t.me/pydatamanaus](https://t.me/pydatamanaus) | [https://www.facebook.com/pydatamanaus](https://www.facebook.com/pydatamanaus) | [https://github.com/pydata-manaus/pydata-manaus](https://github.com/pydata-manaus/pydata-manaus)
 
 ### Pará
 Comunidade | Site
@@ -87,10 +87,10 @@ Comunidade | Site
 GruPy-Al | [https://groups.google.com/forum/#!forum/grupy-al](https://groups.google.com/forum/#!forum/grupy-al)
 
 ### Bahia
-Comunidade | Site | --
+Comunidade | Site
  --- | ---
 GruPy-BA | [https://groups.google.com/forum/#!forum/grupy-ba](https://groups.google.com/forum/#!forum/grupy-ba) | [http://www.meetup.com/pt/Salvador-Python-Meetup/](http://www.meetup.com/pt/Salvador-Python-Meetup/)
-PyLadies Salvador | [https://www.facebook.com/PyLadiesSalvador](https://www.facebook.com/PyLadiesSalvador) |
+PyLadies Salvador | [https://www.facebook.com/PyLadiesSalvador](https://www.facebook.com/PyLadiesSalvador)
 
 ### Ceará
 Comunidade | Site
@@ -143,9 +143,7 @@ PyLadies Fortaleza | [https://www.facebook.com/PyLadiesFortaleza](https://www.fa
 ### Distrito Federal
 Comunidade | Site
  --- | ---
-PyLadies Brasília | []()
-Grupy-DF | [http://df.python.org.br](http://df.python.org.br)
-PyLadies Brasília | []()
+PyLadies Brasília | [https://www.facebook.com/pyladiesdf/](https://www.facebook.com/pyladiesdf/)
 Grupy-DF | [http://df.python.org.br](http://df.python.org.br)
 
 ## Sul
