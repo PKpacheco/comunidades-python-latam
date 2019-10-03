@@ -5,6 +5,7 @@ Comunidade | Site
  --- | ---
 PyLadies Brasil | [http://brasil.pyladies.com/](http://brasil.pyladies.com/)
 Python Brasil | [https://www.facebook.com/pythonbrasil/](https://www.facebook.com/pythonbrasil/)
+AfroPython Brasil | [https://afropython.org/](https://afropython.org/)
 
 ## Sudeste
 
@@ -28,9 +29,9 @@ Comunidade | Site
  --- | ---
 - PyLadies Belo Horizonte | [https://www.facebook.com/pyladiesbh](https://www.facebook.com/pyladiesbh)
 - Pug-MG | [https://groups.google.com/forum/#!forum/python-mg](https://groups.google.com/forum/#!forum/python-mg)
-PyLadies Belo Horizonte | [https://www.facebook.com/pyladiesbh](https://www.facebook.com/pyladiesbh)
-Belo Horizonte Python User Group | [https://www.meetup.com/Belo-Horizonte-Python-User-Group/](https://www.meetup.com/Belo-Horizonte-Python-User-Group/)
-PyData Belo Horizonte | [https://www.meetup.com/PyData-Belo-Horizonte/](https://www.meetup.com/PyData-Belo-Horizonte/)
+- PyLadies Belo Horizonte | [https://www.facebook.com/pyladiesbh](https://www.facebook.com/pyladiesbh)
+- Belo Horizonte Python User Group | [https://www.meetup.com/Belo-Horizonte-Python-User-Group/](https://www.meetup.com/Belo-Horizonte-Python-User-Group/)
+- PyData Belo Horizonte | [https://www.meetup.com/PyData-Belo-Horizonte/](https://www.meetup.com/PyData-Belo-Horizonte/)
 
 ### São Paulo
 Comunidade | Site
@@ -45,17 +46,17 @@ Comunidade | Site
 - grupy-rp | [http://grupyrp.github.io/](http://grupyrp.github.io/)
 - grupy-sanca | [https://www.facebook.com/grupysanca/](https://www.facebook.com/grupysanca/)
 - grupy-sp | [http://www.meetup.com/grupy-sp](http://www.meetup.com/grupy-sp)
-PyLadies São Paulo | [http://www.meetup.com/pt-BR/PyLadiesSP/](http://www.meetup.com/pt-BR/PyLadiesSP/)
-PyLadies Campinas | [https://www.facebook.com/pyladiescps](https://www.facebook.com/pyladiescps)
-PyLadies RP | [https://www.facebook.com/pyladiesrp](https://www.facebook.com/pyladiesrp)
-PyLadies São Carlos | [https://www.facebook.com/PyLadiesSaoCarlos](https://www.facebook.com/PyLadiesSaoCarlos)
-PyLadies Vale | [http://vale.pyladies.com/](http://vale.pyladies.com/)
-Django Girls São José dos Campos | [https://www.facebook.com/djangogirlssjc](https://www.facebook.com/djangogirlssjc)
-grupy-rp | [http://grupyrp.github.io/](http://grupyrp.github.io/)
-grupy-sanca | [https://www.facebook.com/grupysanca/](https://www.facebook.com/grupysanca/)
-grupy-sp | [http://www.meetup.com/grupy-sp](http://www.meetup.com/grupy-sp)
-Python Guarulhos | [https://www.meetup.com/pythonguarulhos/](https://www.meetup.com/pythonguarulhos/)
-SciPy - Sampa | [https://www.facebook.com/SciPySP/](https://www.facebook.com/SciPySP/)
+- PyLadies São Paulo | [http://www.meetup.com/pt-BR/PyLadiesSP/](http://www.meetup.com/pt-BR/PyLadiesSP/)
+- PyLadies Campinas | [https://www.facebook.com/pyladiescps](https://www.facebook.com/pyladiescps)
+- PyLadies RP | [https://www.facebook.com/pyladiesrp](https://www.facebook.com/pyladiesrp)
+- PyLadies São Carlos | [https://www.facebook.com/PyLadiesSaoCarlos](https://www.facebook.com/PyLadiesSaoCarlos)
+- PyLadies Vale | [http://vale.pyladies.com/](http://vale.pyladies.com/)
+- Django Girls São José dos Campos | [https://www.facebook.com/djangogirlssjc](https://www.facebook.com/djangogirlssjc)
+- grupy-rp | [http://grupyrp.github.io/](http://grupyrp.github.io/)
+- grupy-sanca | [https://www.facebook.com/grupysanca/](https://www.facebook.com/grupysanca/)
+- grupy-sp | [http://www.meetup.com/grupy-sp](http://www.meetup.com/grupy-sp)
+- Python Guarulhos | [https://www.meetup.com/pythonguarulhos/](https://www.meetup.com/pythonguarulhos/)
+- SciPy - Sampa | [https://www.facebook.com/SciPySP/](https://www.facebook.com/SciPySP/)
 
 
 ## Norte
@@ -128,6 +129,8 @@ Comunidade | Site | --
  --- | --- |
 - PyLadies Recife | [https://www.facebook.com/pyladiesrecife/](https://www.facebook.com/pyladiesrecife/) |
 - Pug-PE | [https://groups.google.com/forum/#!forum/pug-pe](https://groups.google.com/forum/#!forum/pug-pe) | [http://pycon.pug.pe/XLI/](http://pycon.pug.pe/XLI/)
+- AfroPython Recife | [https://www.facebook.com/AfroPython/](https://www.facebook.com/AfroPython/)
+- Django Girls Recife | [https://www.facebook.com/djangogirlsrecife/](https://www.facebook.com/djangogirlsrecife/)
 
 ### Rio Grande do Norte
 Comunidade | Site
