@@ -127,7 +127,7 @@ Comunidade | Site
 ### Pernambuco
 Comunidade | Site |
  --- | --- |
-- PyLadies Recife | [https://www.facebook.com/pyladiesrecife/](https://www.facebook.com/pyladiesrecife/) |
+- PyLadies Recife | [https://www.facebook.com/pyladiesrecife/](https://www.facebook.com/pyladiesrecife/)
 - Pug-PE | [https://groups.google.com/forum/#!forum/pug-pe](https://groups.google.com/forum/#!forum/pug-pe) | [http://pycon.pug.pe/XLI/](http://pycon.pug.pe/XLI/)
 - AfroPython Recife | [https://www.facebook.com/AfroPython/](https://www.facebook.com/AfroPython/)
 - Django Girls Recife | [https://www.facebook.com/djangogirlsrecife/](https://www.facebook.com/djangogirlsrecife/)
