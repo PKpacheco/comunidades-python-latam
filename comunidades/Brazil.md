@@ -125,7 +125,7 @@ Comunidade | Site
 - Pug-PI | [https://www.facebook.com/groups/pugpi/](https://www.facebook.com/groups/pugpi/)
 
 ### Pernambuco
-Comunidade | Site | --
+Comunidade | Site |
  --- | --- |
 - PyLadies Recife | [https://www.facebook.com/pyladiesrecife/](https://www.facebook.com/pyladiesrecife/) |
 - Pug-PE | [https://groups.google.com/forum/#!forum/pug-pe](https://groups.google.com/forum/#!forum/pug-pe) | [http://pycon.pug.pe/XLI/](http://pycon.pug.pe/XLI/)
