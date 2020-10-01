@@ -5,6 +5,7 @@ Comunidade | Site
  --- | ---
 PyLadies Brasil | [http://brasil.pyladies.com/](http://brasil.pyladies.com/)
 Python Brasil | [https://www.facebook.com/pythonbrasil/](https://www.facebook.com/pythonbrasil/)
+AfroPython | [https://www.afropython.org/](https://www.afropython.org//)
 
 ## Sudeste
 
@@ -79,6 +80,7 @@ Comunidade | Site
 Comunidade | Site
  --- | ---
 - GruPy-Al | [https://groups.google.com/forum/#!forum/grupy-al](https://groups.google.com/forum/#!forum/grupy-al)
+- PyLadies Maceió | [https://www.facebook.com/PyLadiesMaceio/](https://www.facebook.com/PyLadiesMaceio/)
 
 ### Bahia
 Comunidade | Site | --
@@ -128,6 +130,7 @@ Comunidade | Site | --
  --- | --- |
 - PyLadies Recife | [https://www.facebook.com/pyladiesrecife/](https://www.facebook.com/pyladiesrecife/) |
 - Pug-PE | [https://groups.google.com/forum/#!forum/pug-pe](https://groups.google.com/forum/#!forum/pug-pe) | [http://pycon.pug.pe/XLI/](http://pycon.pug.pe/XLI/)
+- AfroPython Recife | [https://www.facebook.com/AfroPythonRecife/](https://www.facebook.com/AfroPythonRecife/) |
 
 ### Rio Grande do Norte
 Comunidade | Site
